@@ -17,7 +17,7 @@ const Featured = () => {
                                     March 20, 2023 <br />
                                     WHERE CAN I GET SOME?
                                 </p>
-                                <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quo totam atque doloribus explicabo? Officiis ad beatae, cupiditate earum dolore neque ut quasi voluptatibus obcaecati voluptatem doloremque. Illum porro unde facere voluptas aut doloribus dolorum ea, fugiat ratione enim deleniti.</p>
+                                <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quo totam atque doloribus explicabo? oluptatem doloremque. Illum porro unde facere voluptas aut doloribus dolorum ea, fugiat ratione enim deleniti.</p>
                                 <button className="btn btn-outline border-0 text-white border-b-4">Order Now</button>
                             </div>
                         </div>
